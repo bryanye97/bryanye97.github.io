@@ -7,9 +7,14 @@
 }
 
 .card-width {
-  width: 300px;
+  width: 320px;
 }
 
 .font-open-sans {
   font-family: "Open Sans", sans-serif;
 }
+
+.font-pt-serif {
+  font-family: 'PT Serif', serif;
+}
+
